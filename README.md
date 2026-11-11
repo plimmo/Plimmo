@@ -1,4 +1,4 @@
-
+## README.md
 
 <!--
 **plimmo/Plimmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="spongebob-gangster-spongebob.gif" width="426" alt="G">
+![G](https://github.com/user-attachments/assets/da459270-1bf3-4836-9453-ec564627d890)
