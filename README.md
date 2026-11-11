@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![G](spongebob-gangster-spongebob.gif)
+<img src="spongebob-gangster-spongebob.gif" width="426" alt="G">
